@@ -11,7 +11,7 @@
 
 .clock-active {
   background: linear-gradient(135deg, #ffffff 0%, #ffffff 100%);
-  color: rgb(72, 72, 72);
+  color: rgb(155, 155, 155);
 }
 
 .clock-content {
@@ -23,7 +23,7 @@
 
 .inactive-icon {
   font-size: 48px;
-  color: #171717;
+  color: #818181;
   margin-bottom: 16px;
 }
 
